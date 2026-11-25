@@ -1,0 +1,6 @@
+firstName,surname,username,email,phoneNumber,userRoles,orgUnits,dataViewOrgUnits,userGroups
+Amina,Khan,amina.khan,amina.khan@example.org,+92 300 1234567,Data entry clerk,OU_559,,
+Bilal,Ahmed,bilal.ahmed,bilal.ahmed@example.org,,Data entry clerk;Tracker data analysis,OU_559;OU_197,OU_559,
+"Sara, Jr.",Malik,sara.malik,sara.malik@example.org,,Data entry clerk,OU_559,,
+Usman,Raza,usman.raza,not-an-email,,Data entry clerk,OU_559,,
+Hina,Iqbal,hina.iqbal,hina.iqbal@example.org,,Superhero,OU_999,,
